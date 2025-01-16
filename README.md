@@ -3,12 +3,16 @@
 This is a Java-based ATM simulator project that allows users to perform basic banking operations such as creating an account, generating ATM numbers and PINs, depositing and withdrawing money, checking account balance, and performing fast withdrawals. The project uses MySQL as the database to store user account information and transaction data.
 
 ##Features
--Create Account: Users can create a new bank account online with a unique ATM number and PIN.
+##-Login Page
+![Image](https://github.com/user-attachments/assets/7048377d-c420-4421-8625-e5d8b37fe64b)
+##-Create Account: Users can create a new bank account online with a unique ATM number and PIN.
 ![Image](https://github.com/user-attachments/assets/a6b4103c-ba4d-49b3-a508-21a75816634e)
--Deposit Money: Users can deposit money into their bank account.
--Withdraw Money: Users can withdraw money from their account, with a limit on the withdrawal amount.
--Balance Enquiry: Users can check the current balance in their account.
--Fast Withdrawal: Users can withdraw a predefined amount (e.g., $100) instantly from their account.
+##-ATM Dashboard
+![Image](https://github.com/user-attachments/assets/c42eaa93-a71f-4333-9177-96d749b21e8a)
+##-Deposit Money: Users can deposit money into their bank account.
+##-Withdraw Money: Users can withdraw money from their account, with a limit on the withdrawal amount.
+##-Balance Enquiry: Users can check the current balance in their account.
+##-Fast Withdrawal: Users can withdraw a predefined amount (e.g., $100) instantly from their account.
 
 ##Technologies Used
 Java: For the core application and ATM operations.
